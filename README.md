@@ -28,6 +28,8 @@ O projeto foi criado para praticar conceitos fundamentais de programação e ló
 * Lógica de programação.
 * Organização de sistemas em menus.
 
+  ![imagem.sistema](https://github.com/GustavoMoraes-DEV/Sistema-de-vendas-/blob/main/sistemadevendas.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Python
